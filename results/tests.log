@@ -1,0 +1,17 @@
+test_balanced_frustration (test_flux.FluxTests.test_balanced_frustration) ... ok
+test_cycle_attainment (test_flux.FluxTests.test_cycle_attainment) ... ok
+test_full_invariant_cancellation (test_flux.FluxTests.test_full_invariant_cancellation) ... ok
+test_hybrid_general_relation (test_flux.FluxTests.test_hybrid_general_relation) ... ok
+test_invalid_input (test_flux.FluxTests.test_invalid_input) ... ok
+test_packing_and_reject_tamper (test_flux.FluxTests.test_packing_and_reject_tamper) ... ok
+test_smith_torus_criterion (test_flux.FluxTests.test_smith_torus_criterion) ... ok
+test_standalone_verifier (test_flux.FluxTests.test_standalone_verifier) ... ok
+test_three_evaluators (test_flux.FluxTests.test_three_evaluators) ... ok
+test_translation_invariance (test_flux.FluxTests.test_translation_invariance) ... ok
+test_viscous_split (test_flux.FluxTests.test_viscous_split) ... ok
+test_witness_coefficients (test_flux.FluxTests.test_witness_coefficients) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.255s
+
+OK

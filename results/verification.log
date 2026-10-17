@@ -1,0 +1,13 @@
+L=2, p=0, energy: VERIFIED upper <= 4.4
+L=2, p=0, enstrophy: VERIFIED upper <= 17.2
+L=2, p=1, energy: VERIFIED upper <= 0.073333333333333
+L=2, p=1, enstrophy: VERIFIED upper <= 0.32222222222222
+L=3, p=0, energy: VERIFIED upper <= 8.2838461538462
+L=3, p=0, enstrophy: VERIFIED upper <= 74.439230769231
+L=3, p=1, energy: VERIFIED upper <= 0.03068206647154
+L=3, p=1, enstrophy: VERIFIED upper <= 0.29565386368018
+L=4, p=0, energy: VERIFIED upper <= 12.668781949103
+L=4, p=0, enstrophy: VERIFIED upper <= 199.13975657532
+L=4, p=1, energy: VERIFIED upper <= 0.014527782144149
+L=4, p=1, enstrophy: VERIFIED upper <= 0.23820693941696
+12 exact rational certificates verified.

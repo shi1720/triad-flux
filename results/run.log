@@ -1,0 +1,81 @@
+/Users/shivamgupta/Documents/Codex/2026-10-17/you-have-done-great-work-till-20/outputs/triad-flux/run_experiments.py:128: SyntaxWarning: invalid escape sequence '\o'
+  im=ax[1].imshow(v.T,origin='lower',extent=[0,2*np.pi,0,2*np.pi],cmap='RdBu_r');ax[1].set(xlabel='$x$',ylabel='$y$',title='(b) Attaining vorticity field');fig.colorbar(im,ax=ax[1],shrink=.75,label='$\omega$')
+{'L': 2, 'modes': 12, 'decay': 0, 'observable': 'energy', 'triads': 12, 'triangle_attainable': True, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 0, 'used_general': 0, 'general_deficit': 0.0, 'triangle': 4.4, 'upper': np.float64(4.4), 'lower_diagnostic': np.float64(4.399999999999998), 'improvement_percent': np.float64(0.0), 'certificate_seconds': 0.001574292007717304}
+{'L': 2, 'modes': 12, 'decay': 0, 'observable': 'enstrophy', 'triads': 12, 'triangle_attainable': True, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 0, 'used_general': 0, 'general_deficit': 0.0, 'triangle': 17.2, 'upper': np.float64(17.2), 'lower_diagnostic': np.float64(17.19999999999996), 'improvement_percent': np.float64(0.0), 'certificate_seconds': 0.001300624993746169}
+{'L': 2, 'modes': 12, 'decay': 1, 'observable': 'energy', 'triads': 12, 'triangle_attainable': True, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 0, 'used_general': 0, 'general_deficit': 0.0, 'triangle': 0.07333333333333333, 'upper': np.float64(0.07333333333333333), 'lower_diagnostic': np.float64(0.07333333333333128), 'improvement_percent': np.float64(0.0), 'certificate_seconds': 0.001443790999474004}
+{'L': 2, 'modes': 12, 'decay': 1, 'observable': 'enstrophy', 'triads': 12, 'triangle_attainable': True, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 0, 'used_general': 0, 'general_deficit': 0.0, 'triangle': 0.32222222222222224, 'upper': np.float64(0.32222222222222224), 'lower_diagnostic': np.float64(0.32222222222222213), 'improvement_percent': np.float64(0.0), 'certificate_seconds': 0.0012601669877767563}
+{'L': 3, 'modes': 24, 'decay': 0, 'observable': 'energy', 'triads': 52, 'triangle_attainable': False, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 12, 'used_general': 3, 'general_deficit': 0.03, 'triangle': 8.313846153846153, 'upper': np.float64(8.283846153846154), 'lower_diagnostic': np.float64(7.029963982848161), 'improvement_percent': np.float64(0.3608438193930308), 'certificate_seconds': 0.014053125007194467}
+{'L': 3, 'modes': 24, 'decay': 0, 'observable': 'enstrophy', 'triads': 52, 'triangle_attainable': False, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 12, 'used_general': 3, 'general_deficit': 0.11461538461538462, 'triangle': 74.55384615384615, 'upper': np.float64(74.43923076923076), 'lower_diagnostic': np.float64(66.41677055474506), 'improvement_percent': np.float64(0.15373503920760312), 'certificate_seconds': 0.014404833011212759}
+{'L': 3, 'modes': 24, 'decay': 1, 'observable': 'energy', 'triads': 52, 'triangle_attainable': False, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 12, 'used_general': 2, 'general_deficit': 3.189792663476874e-05, 'triangle': 0.030713964398174923, 'upper': np.float64(0.030682066471540155), 'lower_diagnostic': np.float64(0.027304804119430676), 'improvement_percent': np.float64(0.1038548010971363), 'certificate_seconds': 0.014653416990768164}
+{'L': 3, 'modes': 24, 'decay': 1, 'observable': 'enstrophy', 'triads': 52, 'triangle_attainable': False, 'frustrated_circuits': 0, 'used_circuits': 0, 'general_candidates': 12, 'used_general': 2, 'general_deficit': 0.00014098474624790413, 'triangle': 0.2957948484264274, 'upper': np.float64(0.2956538636801795), 'lower_diagnostic': np.float64(0.27344910735091865), 'improvement_percent': np.float64(0.047663016106580525), 'certificate_seconds': 0.014288083999417722}
+{'L': 4, 'modes': 40, 'decay': 0, 'observable': 'energy', 'triads': 156, 'triangle_attainable': False, 'frustrated_circuits': 28, 'used_circuits': 16, 'general_candidates': 53, 'used_general': 2, 'general_deficit': 0.01, 'triangle': 12.988374057315234, 'upper': np.float64(12.668781949103368), 'lower_diagnostic': np.float64(9.718814199143472), 'improvement_percent': np.float64(2.4606013562711304), 'certificate_seconds': 0.12551287500537}
+{'L': 4, 'modes': 40, 'decay': 0, 'observable': 'enstrophy', 'triads': 156, 'triangle_attainable': False, 'frustrated_circuits': 28, 'used_circuits': 20, 'general_candidates': 53, 'used_general': 1, 'general_deficit': 0.03333333333333333, 'triangle': 201.70920060331824, 'upper': np.float64(199.13975657531785), 'lower_diagnostic': np.float64(160.66371414539202), 'improvement_percent': np.float64(1.2738358093310143), 'certificate_seconds': 0.12411874999816064}
+{'L': 4, 'modes': 40, 'decay': 1, 'observable': 'energy', 'triads': 156, 'triangle_attainable': False, 'frustrated_circuits': 28, 'used_circuits': 20, 'general_candidates': 53, 'used_general': 2, 'general_deficit': 2.9928676987500516e-06, 'triangle': 0.014705740854275886, 'upper': np.float64(0.014527782144149194), 'lower_diagnostic': np.float64(0.0122025275854677), 'improvement_percent': np.float64(1.2101308726309323), 'certificate_seconds': 0.14050599999609403}
+{'L': 4, 'modes': 40, 'decay': 1, 'observable': 'enstrophy', 'triads': 156, 'triangle_attainable': False, 'frustrated_circuits': 28, 'used_circuits': 20, 'general_candidates': 53, 'used_general': 2, 'general_deficit': 2.5879497932250923e-05, 'triangle': 0.23969973408385248, 'upper': np.float64(0.23820693941696186), 'lower_diagnostic': np.float64(0.2067793213213088), 'improvement_percent': np.float64(0.6227769390717786), 'certificate_seconds': 0.18186012499791104}
+{
+  "witness_weights": [
+    "1/145",
+    "3/65",
+    "-16/435",
+    "32/975"
+  ],
+  "witness_sharp": {
+    "t": "1",
+    "radicands": [
+      "169/189225",
+      "5929/950625"
+    ],
+    "maximum": 0.10885941644562334,
+    "triangle": "1156/9425"
+  },
+  "witness_phases": [
+    -0.7853981633974485,
+    -0.7853981633974481,
+    0.7853981633974482,
+    1.5707963267948966,
+    -2.2431701710856195e-16,
+    -0.7853981633974483
+  ],
+  "balanced_amplitudes": [
+    "1",
+    "1",
+    "sqrt(30)/15",
+    "1",
+    "13*sqrt(30)/174",
+    "3*sqrt(30)/32"
+  ],
+  "balanced_phases": [
+    -2.1701244859703746e-16,
+    1.7156561002176733e-16,
+    0.7853981633974482,
+    0.7853981633974483,
+    -2.2431701710856195e-16,
+    -0.7853981633974483
+  ],
+  "balanced_sharp": {
+    "t": "0",
+    "radicands": [
+      "2/21025",
+      "2/21025"
+    ],
+    "maximum": 0.019506393963766827,
+    "triangle": "4/145"
+  },
+  "representation_count": 600,
+  "max_direct_error": 1.5543122344752192e-15,
+  "max_fft_error": 3.3861802251067274e-15,
+  "cycle_count": 624,
+  "max_cycle_attainment_error": 8.881784197001252e-16,
+  "trajectory_terminal_fluxes": [
+    0.02014577021645726,
+    0.020145770222577446,
+    0.020145770222576843,
+    0.02014577022257678
+  ],
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "sympy": "1.14.0",
+  "matplotlib": "3.11.2",
+  "seed": 20261017
+}
